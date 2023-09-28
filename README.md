@@ -1,2 +1,2 @@
-# dio-reposit-rio-desafio
+# dio-repositorio-desafio
 Projetos de desenvolvimento da DIO
